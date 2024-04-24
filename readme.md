@@ -24,3 +24,6 @@ eval.ipynb
 dinov2_and_clip.py
 ## web construction
 app.py
+## our demo video link
+https://www.youtube.com/watch?v=ySOl7rKo0TA
+
